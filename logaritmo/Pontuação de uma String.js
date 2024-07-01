@@ -1,4 +1,5 @@
-/**
+/** 
+ * Facil
  * Você recebe uma string s. A pontuação de uma string é definida como a soma da diferença absoluta entre os valores ASCII de caracteres adjacentes.
  * Retorne a pontuação de . s
 */

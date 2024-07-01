@@ -1,5 +1,6 @@
 /**
-Dado um array inteiro arr, retorna true se houver três números ímpares consecutivos no array. Caso contrário, retorna  false.
+ * Facil
+ * Dado um array inteiro arr, retorna true se houver três números ímpares consecutivos no array. Caso contrário, retorna  false.
 */
 function threeConsecutiveOdds (arr) {
     // Verifica se o array tem menos de 3 elementos, o que torna impossível ter 3 ímpares consecutivos
