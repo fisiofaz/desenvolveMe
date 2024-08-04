@@ -17,3 +17,4 @@ class gato < Animal
 end
 
 gato = Gato.new
+
